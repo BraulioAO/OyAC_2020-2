@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : -9.637
+TNS   : -9.637
+
+Type  : Slow 1200mV 85C Model Setup 'RELOJ'
+Slack : -8.399
+TNS   : -361.172
+
+Type  : Slow 1200mV 85C Model Hold 'RELOJ'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 4.625
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : -7.265
+TNS   : -7.265
+
+Type  : Slow 1200mV 85C Model Removal 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 3.446
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RELOJ'
+Slack : -3.000
+TNS   : -193.808
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : -8.878
+TNS   : -8.878
+
+Type  : Slow 1200mV 0C Model Setup 'RELOJ'
+Slack : -7.717
+TNS   : -324.833
+
+Type  : Slow 1200mV 0C Model Hold 'RELOJ'
+Slack : 0.305
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 4.286
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : -6.732
+TNS   : -6.732
+
+Type  : Slow 1200mV 0C Model Removal 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 3.212
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RELOJ'
+Slack : -3.000
+TNS   : -193.808
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : -4.128
+TNS   : -4.128
+
+Type  : Fast 1200mV 0C Model Setup 'RELOJ'
+Slack : -3.312
+TNS   : -89.226
+
+Type  : Fast 1200mV 0C Model Hold 'RELOJ'
+Slack : -0.095
+TNS   : -0.095
+
+Type  : Fast 1200mV 0C Model Hold 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 2.404
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : -3.213
+TNS   : -3.213
+
+Type  : Fast 1200mV 0C Model Removal 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 1.969
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RELOJ'
+Slack : -3.000
+TNS   : -144.424
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'reg_acoplo_3:SENIALES_CONTROL|selop[0]'
+Slack : 0.431
+TNS   : 0.000
+
+------------------------------------------------------------
