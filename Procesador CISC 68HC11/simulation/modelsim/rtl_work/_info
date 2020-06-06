@@ -1,0 +1,500 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VHDL/68HC11/CISC/simulation/modelsim
+Eacumulador
+Z1 w1541662869
+Z2 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z3 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z8 8D:/VHDL/68HC11/CISC/Acumulador/acumulador.vhd
+Z9 FD:/VHDL/68HC11/CISC/Acumulador/acumulador.vhd
+l0
+L7
+VQ_aT7:lWl4lAcX]Dkbk6M2
+!s100 380ji:Ch<_DFDk5AJ5dKj0
+Z10 OV;C;10.4b;61
+31
+Z11 !s110 1572824175
+!i10b 1
+Z12 !s108 1572824174.000000
+Z13 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/Acumulador/acumulador.vhd|
+Z14 !s107 D:/VHDL/68HC11/CISC/Acumulador/acumulador.vhd|
+!i113 1
+Z15 o-93 -work work
+Z16 tExplicit 1
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 acumulador 0 22 Q_aT7:lWl4lAcX]Dkbk6M2
+l23
+L20
+VKK=^ggNaBGUMiekCl48252
+!s100 BbW<ZGgkcfOaHfPj@S5M[1
+R10
+31
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Econcatenador_datos
+Z17 w1494188650
+R4
+R5
+R6
+R7
+R0
+Z18 8D:/VHDL/68HC11/CISC/flags/concatenador_datos.vhd
+Z19 FD:/VHDL/68HC11/CISC/flags/concatenador_datos.vhd
+l0
+L6
+V:f]MSgA4WFQk[kzzOg;I:0
+!s100 >dDLhlciiNOgzzQRY9PZ>0
+R10
+31
+Z20 !s110 1572824174
+!i10b 1
+R12
+Z21 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/flags/concatenador_datos.vhd|
+Z22 !s107 D:/VHDL/68HC11/CISC/flags/concatenador_datos.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+R6
+R7
+DEx4 work 18 concatenador_datos 0 22 :f]MSgA4WFQk[kzzOg;I:0
+l19
+L18
+VVhom5RRK;NWRIcb@VChNO2
+!s100 h@W;f0T>eM34@dg?lI:8d0
+R10
+31
+R20
+!i10b 1
+R12
+R21
+R22
+!i113 1
+R15
+R16
+Econtador
+Z23 w1541662687
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+Z24 8D:/VHDL/68HC11/CISC/Contador/contador.vhd
+Z25 FD:/VHDL/68HC11/CISC/Contador/contador.vhd
+l0
+L7
+VE[DHbckS1_PQY9?CogJ8<2
+!s100 PPXM0zPlETU;T9gok[:dG2
+R10
+31
+R20
+!i10b 1
+R12
+Z26 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/Contador/contador.vhd|
+Z27 !s107 D:/VHDL/68HC11/CISC/Contador/contador.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 8 contador 0 22 E[DHbckS1_PQY9?CogJ8<2
+l28
+L25
+VoWT>mAlo81NnYbFOoYoMH0
+!s100 <fh<73;j=]h48`5]zz_3a3
+R10
+31
+R20
+!i10b 1
+R12
+R26
+R27
+!i113 1
+R15
+R16
+Econtador_id
+Z28 w1541630179
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+Z29 8D:/VHDL/68HC11/CISC/Contador/contador_id.vhd
+Z30 FD:/VHDL/68HC11/CISC/Contador/contador_id.vhd
+l0
+L7
+VzWTH<Wnad`^=eD==fVnBO1
+!s100 Xbi:]3;29?eYdN3n6IS003
+R10
+31
+R20
+!i10b 1
+R12
+Z31 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/Contador/contador_id.vhd|
+Z32 !s107 D:/VHDL/68HC11/CISC/Contador/contador_id.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 11 contador_id 0 22 zWTH<Wnad`^=eD==fVnBO1
+l29
+L26
+V:8z7APY]G:n?RJFRnKE7`3
+!s100 OK3gi6i0eDWY2lc3a4QS:2
+R10
+31
+R20
+!i10b 1
+R12
+R31
+R32
+!i113 1
+R15
+R16
+Ectrl_interrupciones
+Z33 w1494214145
+R6
+R7
+R0
+Z34 8D:/VHDL/68HC11/CISC/Interrupciones/ctrl_interrupciones.vhd
+Z35 FD:/VHDL/68HC11/CISC/Interrupciones/ctrl_interrupciones.vhd
+l0
+L4
+VKHS2A]KG?mPKX>QYPoffA2
+!s100 be5Da`cb:C11P7I?8c[D80
+R10
+31
+R20
+!i10b 1
+R12
+Z36 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/Interrupciones/ctrl_interrupciones.vhd|
+Z37 !s107 D:/VHDL/68HC11/CISC/Interrupciones/ctrl_interrupciones.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R6
+R7
+DEx4 work 19 ctrl_interrupciones 0 22 KHS2A]KG?mPKX>QYPoffA2
+l28
+L20
+VV0i_Z?@`h1ePjMLlm0PjZ0
+!s100 I^7LNG?1>i`mb6bA257KH0
+R10
+31
+R20
+!i10b 1
+R12
+R36
+R37
+!i113 1
+R15
+R16
+Edivisor_datos
+Z38 w1494183929
+R4
+R5
+R6
+R7
+R0
+Z39 8D:/VHDL/68HC11/CISC/flags/divisor_datos.vhd
+Z40 FD:/VHDL/68HC11/CISC/flags/divisor_datos.vhd
+l0
+L6
+VbzS?A7hbiXe]a;lcBSbkX3
+!s100 z5zgZi3DR2U>aBaRRn7_C3
+R10
+31
+R20
+!i10b 1
+R12
+Z41 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/flags/divisor_datos.vhd|
+Z42 !s107 D:/VHDL/68HC11/CISC/flags/divisor_datos.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+R6
+R7
+DEx4 work 13 divisor_datos 0 22 bzS?A7hbiXe]a;lcBSbkX3
+l20
+L19
+VfD4fQf7ZUX08V9S>c[d1Z3
+!s100 iJK::[N`=174^SNEo=BeN0
+R10
+31
+R20
+!i10b 1
+R12
+R41
+R42
+!i113 1
+R15
+R16
+Emux1
+Z43 w1494182194
+R6
+R7
+R0
+Z44 8D:/VHDL/68HC11/CISC/flags/mux1.vhd
+Z45 FD:/VHDL/68HC11/CISC/flags/mux1.vhd
+l0
+L4
+VVDU?MZ?]B=;2R=N^[iEn=2
+!s100 5ag:_`eZTO11;JKfo5fDL0
+R10
+31
+R20
+!i10b 1
+R12
+Z46 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/flags/mux1.vhd|
+Z47 !s107 D:/VHDL/68HC11/CISC/flags/mux1.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R6
+R7
+DEx4 work 4 mux1 0 22 VDU?MZ?]B=;2R=N^[iEn=2
+l12
+L11
+VZGz4R=>C7jfF0aF3Gz^le1
+!s100 e_J7W^^56>_Q;HT49>T1o2
+R10
+31
+R20
+!i10b 1
+R12
+R46
+R47
+!i113 1
+R15
+R16
+Emux2
+Z48 w1494182651
+R6
+R7
+R0
+Z49 8D:/VHDL/68HC11/CISC/flags/mux2.vhd
+Z50 FD:/VHDL/68HC11/CISC/flags/mux2.vhd
+l0
+L4
+VNnlIeM@BPilK_6eE:IUL]3
+!s100 J@1ZbD_ccOln1=b@E0nj<2
+R10
+31
+R20
+!i10b 1
+R12
+Z51 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/flags/mux2.vhd|
+Z52 !s107 D:/VHDL/68HC11/CISC/flags/mux2.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R6
+R7
+DEx4 work 4 mux2 0 22 NnlIeM@BPilK_6eE:IUL]3
+l15
+L14
+VCH0TQl2;AA60k6IWM:eLb3
+!s100 T]lbfR=CiCok1C^Ji:1YW0
+R10
+31
+R20
+!i10b 1
+R12
+R51
+R52
+!i113 1
+R15
+R16
+Emux3
+Z53 w1494182887
+R6
+R7
+R0
+Z54 8D:/VHDL/68HC11/CISC/flags/mux3.vhd
+Z55 FD:/VHDL/68HC11/CISC/flags/mux3.vhd
+l0
+L4
+VPPSbYdMDXMYLNS;oSj45_2
+!s100 S>l;>WE?Q5eNMTEj7:KKZ2
+R10
+31
+R20
+!i10b 1
+R12
+Z56 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/flags/mux3.vhd|
+Z57 !s107 D:/VHDL/68HC11/CISC/flags/mux3.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R6
+R7
+DEx4 work 4 mux3 0 22 PPSbYdMDXMYLNS;oSj45_2
+l20
+L19
+VhF?HfJRKcBo@J6JXL6>mj3
+!s100 k4enzz9F<nV2iU3b0KnFf1
+R10
+31
+R20
+!i10b 1
+R12
+R56
+R57
+!i113 1
+R15
+R16
+Eram
+Z58 w1572823313
+R4
+R5
+R6
+R7
+R0
+Z59 8D:/VHDL/68HC11/CISC/RAM/ram.vhd
+Z60 FD:/VHDL/68HC11/CISC/RAM/ram.vhd
+l0
+L6
+V9C]7MnKYQXPj8M2=^8mlz3
+!s100 lb[H6`0TUPK:GW3AgMTid0
+R10
+31
+!s110 1572824173
+!i10b 1
+Z61 !s108 1572824173.000000
+Z62 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/RAM/ram.vhd|
+Z63 !s107 D:/VHDL/68HC11/CISC/RAM/ram.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R4
+R5
+R6
+R7
+DEx4 work 3 ram 0 22 9C]7MnKYQXPj8M2=^8mlz3
+l19
+L14
+Vn1l4@4Nzc=cG^eo8Vkb772
+!s100 23ff7LENiHW040<PlbiWg3
+R10
+31
+R20
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R15
+R16
+Eregistro
+Z64 w1541634796
+R6
+R7
+R0
+Z65 8D:/VHDL/68HC11/CISC/flags/registro.vhd
+Z66 FD:/VHDL/68HC11/CISC/flags/registro.vhd
+l0
+L4
+VUY:C[F;KS37on_P3VInZz3
+!s100 @zVQBT;6Ul`4cF_8GaeTJ3
+R10
+31
+R20
+!i10b 1
+R12
+Z67 !s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/flags/registro.vhd|
+Z68 !s107 D:/VHDL/68HC11/CISC/flags/registro.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R6
+R7
+DEx4 work 8 registro 0 22 UY:C[F;KS37on_P3VInZz3
+l16
+L13
+Vl<Fke@626fOdhJi68E@Si2
+!s100 zQ5UEak<ZK2fFL9FQ=kF:1
+R10
+31
+R20
+!i10b 1
+R12
+R67
+R68
+!i113 1
+R15
+R16
+Eupa
+w1541662576
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+8D:/VHDL/68HC11/CISC/UPA/upa.vhd
+FD:/VHDL/68HC11/CISC/UPA/upa.vhd
+l0
+L7
+VG7T87U`<:I_DQ8aF?CZZI1
+!s100 W3Ml1CENdjln8K2babXb@2
+R10
+31
+R11
+!i10b 1
+!s108 1572824175.000000
+!s90 -reportprogress|300|-93|-work|work|D:/VHDL/68HC11/CISC/UPA/upa.vhd|
+!s107 D:/VHDL/68HC11/CISC/UPA/upa.vhd|
+!i113 1
+R15
+R16

@@ -1,0 +1,70 @@
+# do m68hc11_run_msim_gate_vhdl.do
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Model Technology ModelSim ALTERA vmap 10.4b Lib Mapping Utility 2015.05 May 27 2015
+# vmap -modelsim_quiet work gate_work 
+# Copying D:/altera_lite/15.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:/altera_lite/15.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {m68hc11_6_1200mv_85c_slow.vho}
+# Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+# Start time: 17:39:17 on Nov 03,2019
+# vcom -reportprogress 300 -93 -work work m68hc11_6_1200mv_85c_slow.vho 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package dffeas_pack
+# -- Loading package altera_primitives_components
+# -- Loading package cycloneive_atom_pack
+# -- Loading package cycloneive_components
+# -- Compiling entity m68hc11
+# -- Compiling architecture structure of m68hc11
+# End time: 17:39:19 on Nov 03,2019, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# 
+vsim work.m68hc11
+# vsim work.m68hc11 
+# Start time: 17:39:56 on Nov 03,2019
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading altera.dffeas_pack
+# Loading altera.altera_primitives_components
+# Loading cycloneive.cycloneive_atom_pack(body)
+# Loading cycloneive.cycloneive_components
+# Loading work.m68hc11(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading cycloneive.cycloneive_io_obuf(arch)
+# Loading cycloneive.cycloneive_io_ibuf(arch)
+# Loading cycloneive.cycloneive_clkctrl(vital_clkctrl)
+# Loading cycloneive.cycloneive_ena_reg(behave)
+# Loading cycloneive.cycloneive_lcell_comb(vital_lcell_comb)
+# Loading altera.dffeas(vital_dffeas)
+# ** Warning: Design size of 492740 statements exceeds ModelSim Altera Starter recommended capacity.
+# Expect performance to be adversely affected.
+mem display
+# ** Error: (vsim-3664) No memory object found in '/m68hc11'.
+# 
+mem display /top/inst6/mem
+# ** Error (suppressible): (vsim-4008) Object '/top/inst6/mem' not found.
+# 
+mem display m68hc11/inst6/mem
+# ** Error (suppressible): (vsim-4008) Object 'm68hc11/inst6/mem' not found.
+# 
+mem display /m68hc11/inst6/mem
+# ** Error (suppressible): (vsim-4008) Object '/m68hc11/inst6/mem' not found.
+# 
+mem display D:/VHDL/68HC11/CISC/RAM/ram.vhd
+# mem commands support only sim dataset.
+# 
+# End time: 18:17:53 on Nov 03,2019, Elapsed time: 0:37:57
+# Errors: 5, Warnings: 1

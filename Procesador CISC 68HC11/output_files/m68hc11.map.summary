@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Apr 28 01:17:38 2020
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : m68hc11
+Top-level Entity Name : m68hc11
+Family : MAX 10
+Total logic elements : 1,754
+    Total combinational functions : 1,704
+    Dedicated logic registers : 278
+Total registers : 278
+Total pins : 169
+Total virtual pins : 0
+Total memory bits : 8,192
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
