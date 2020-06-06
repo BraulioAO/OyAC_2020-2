@@ -1,0 +1,165 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, the Altera Quartus Prime License Agreement,
+# the Altera MegaCore Function License Agreement, or other 
+# applicable license agreement, including, without limitation, 
+# that your use is for the sole purpose of programming logic 
+# devices manufactured by Altera and sold by Altera or its 
+# authorized distributors.  Please refer to the applicable 
+# agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus Prime
+# Version 15.1.0 Build 185 10/21/2015 SJ Lite Edition
+# Date created = 17:25:23  October 17, 2018
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		m68hc11_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus Prime software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY "MAX 10"
+set_global_assignment -name DEVICE 10M50DAF484C7G
+set_global_assignment -name TOP_LEVEL_ENTITY m68hc11
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 15.1.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "17:25:23  OCTOBER 17, 2018"
+set_global_assignment -name LAST_QUARTUS_VERSION "18.0.0 Lite Edition"
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 2
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (VHDL)"
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT VHDL -section_id eda_simulation
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "2.5 V"
+set_global_assignment -name ENABLE_OCT_DONE ON
+set_global_assignment -name EXTERNAL_FLASH_FALLBACK_ADDRESS 00000000
+set_global_assignment -name USE_CONFIGURATION_DEVICE OFF
+set_global_assignment -name INTERNAL_FLASH_UPDATE_MODE "SINGLE IMAGE WITH ERAM"
+set_global_assignment -name CRC_ERROR_OPEN_DRAIN OFF
+set_global_assignment -name OUTPUT_IO_TIMING_NEAR_END_VMEAS "HALF VCCIO" -rise
+set_global_assignment -name OUTPUT_IO_TIMING_NEAR_END_VMEAS "HALF VCCIO" -fall
+set_global_assignment -name OUTPUT_IO_TIMING_FAR_END_VMEAS "HALF SIGNAL SWING" -rise
+set_global_assignment -name OUTPUT_IO_TIMING_FAR_END_VMEAS "HALF SIGNAL SWING" -fall
+set_global_assignment -name BLOCK_DESIGN_NAMING MAXPLUSII
+set_location_assignment PIN_C14 -to O0[0]
+set_location_assignment PIN_E15 -to O0[1]
+set_location_assignment PIN_C15 -to O0[2]
+set_location_assignment PIN_E16 -to O0[4]
+set_location_assignment PIN_C16 -to O0[3]
+set_location_assignment PIN_D17 -to O0[5]
+set_location_assignment PIN_C17 -to O0[6]
+set_location_assignment PIN_D15 -to O0[7]
+set_location_assignment PIN_C18 -to O1[0]
+set_location_assignment PIN_D18 -to O1[1]
+set_location_assignment PIN_E18 -to O1[2]
+set_location_assignment PIN_B16 -to O1[3]
+set_location_assignment PIN_A17 -to O1[4]
+set_location_assignment PIN_A18 -to O1[5]
+set_location_assignment PIN_B17 -to O1[6]
+set_location_assignment PIN_A16 -to O1[7]
+set_location_assignment PIN_B20 -to O2[0]
+set_location_assignment PIN_A20 -to O2[1]
+set_location_assignment PIN_B19 -to O2[2]
+set_location_assignment PIN_A21 -to O2[3]
+set_location_assignment PIN_B21 -to O2[4]
+set_location_assignment PIN_C22 -to O2[5]
+set_location_assignment PIN_B22 -to O2[6]
+set_location_assignment PIN_A19 -to O2[7]
+set_location_assignment PIN_F21 -to O3[0]
+set_location_assignment PIN_E22 -to O3[1]
+set_location_assignment PIN_E21 -to O3[2]
+set_location_assignment PIN_C19 -to O3[3]
+set_location_assignment PIN_C20 -to O3[4]
+set_location_assignment PIN_D19 -to O3[5]
+set_location_assignment PIN_E17 -to O3[6]
+set_location_assignment PIN_D22 -to O3[7]
+set_location_assignment PIN_F18 -to O4[0]
+set_location_assignment PIN_E20 -to O4[1]
+set_location_assignment PIN_E19 -to O4[2]
+set_location_assignment PIN_J18 -to O4[3]
+set_location_assignment PIN_H19 -to O4[4]
+set_location_assignment PIN_F19 -to O4[5]
+set_location_assignment PIN_F20 -to O4[6]
+set_location_assignment PIN_F17 -to O4[7]
+set_location_assignment PIN_J20 -to O5[0]
+set_location_assignment PIN_K20 -to O5[1]
+set_location_assignment PIN_L18 -to O5[2]
+set_location_assignment PIN_N18 -to O5[3]
+set_location_assignment PIN_M20 -to O5[4]
+set_location_assignment PIN_N19 -to O5[5]
+set_location_assignment PIN_N20 -to O5[6]
+set_location_assignment PIN_L19 -to O5[7]
+set_location_assignment PIN_P11 -to CLK
+set_location_assignment PIN_A7 -to BOTON
+set_location_assignment PIN_B8 -to RESET
+set_location_assignment PIN_A8 -to INT_D
+set_location_assignment PIN_C11 -to sel1
+set_location_assignment PIN_C10 -to sel0
+set_location_assignment PIN_B14 -to IRQn
+set_location_assignment PIN_F15 -to XIRQn
+set_location_assignment PIN_D12 -to sel2
+set_location_assignment PIN_B11 -to led9
+set_location_assignment PIN_A11 -to led8
+set_location_assignment PIN_D14 -to led7
+set_location_assignment PIN_E14 -to led6
+set_location_assignment PIN_C13 -to led5
+set_location_assignment PIN_D13 -to led4
+set_location_assignment PIN_B10 -to led3
+set_location_assignment PIN_A10 -to led2
+set_location_assignment PIN_A9 -to led1
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
+set_global_assignment -name VHDL_FILE modulosTarjeta/sensa_boton.vhd
+set_global_assignment -name VHDL_FILE modulosTarjeta/decoDisplays.vhd
+set_global_assignment -name VHDL_FILE RAM/ram.vhd
+set_global_assignment -name VHDL_FILE Interrupciones/ctrl_interrupciones.vhd
+set_global_assignment -name BDF_FILE flags/Flags.bdf
+set_global_assignment -name VHDL_FILE flags/registro.vhd
+set_global_assignment -name VHDL_FILE flags/mux3.vhd
+set_global_assignment -name VHDL_FILE flags/mux2.vhd
+set_global_assignment -name VHDL_FILE flags/mux1.vhd
+set_global_assignment -name VHDL_FILE flags/divisor_datos.vhd
+set_global_assignment -name VHDL_FILE flags/concatenador_datos.vhd
+set_global_assignment -name VHDL_FILE Contador/contador_id.vhd
+set_global_assignment -name VHDL_FILE Contador/contador.vhd
+set_global_assignment -name VHDL_FILE Acumulador/acumulador.vhd
+set_global_assignment -name VHDL_FILE UPA/upa.vhd
+set_global_assignment -name BDF_FILE Secuenciador/secuenciador.bdf
+set_global_assignment -name VHDL_FILE Secuenciador/memory.vhd
+set_global_assignment -name VHDL_FILE Secuenciador/registro_sec.vhd
+set_global_assignment -name VHDL_FILE Secuenciador/logica_seleccion.vhd
+set_global_assignment -name VHDL_FILE Secuenciador/registro_MicroInst.vhd
+set_global_assignment -name VHDL_FILE registro_instruccion.vhd
+set_global_assignment -name VHDL_FILE bufferDataBus.vhd
+set_global_assignment -name VHDL_FILE registro_direccion.vhd
+set_global_assignment -name VHDL_FILE concatenador_entradas.vhd
+set_global_assignment -name VHDL_FILE enaY_gen.vhd
+set_global_assignment -name MIF_FILE mem_content.mif
+set_global_assignment -name MIF_FILE rom_content.mif
+set_global_assignment -name VECTOR_WAVEFORM_FILE Waveform.vwf
+set_global_assignment -name BDF_FILE m68hc11.bdf
+set_global_assignment -name VHDL_FILE registro_interrupcion.vhd
+set_global_assignment -name VHDL_FILE mux_display.vhd

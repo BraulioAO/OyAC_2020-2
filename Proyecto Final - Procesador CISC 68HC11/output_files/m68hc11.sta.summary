@@ -1,0 +1,437 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : -22.539
+TNS   : -212.539
+
+Type  : Slow 1200mV 85C Model Setup 'sensa_boton:inst14|RELOJ'
+Slack : -22.434
+TNS   : -6531.023
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : -21.640
+TNS   : -21.640
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : -19.552
+TNS   : -19.552
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : -19.540
+TNS   : -19.540
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : -18.393
+TNS   : -18.393
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : -17.964
+TNS   : -17.964
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : -17.100
+TNS   : -17.100
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : -16.795
+TNS   : -16.795
+
+Type  : Slow 1200mV 85C Model Setup 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : -16.394
+TNS   : -16.394
+
+Type  : Slow 1200mV 85C Model Setup 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -8.745
+TNS   : -8.745
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : 0.170
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -2.738
+TNS   : -2.738
+
+Type  : Slow 1200mV 85C Model Hold 'sensa_boton:inst14|RELOJ'
+Slack : -2.031
+TNS   : -7.902
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : -1.939
+TNS   : -9.019
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.429
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : 2.645
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : 3.096
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : 3.577
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : 4.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : 4.142
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : 4.511
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : 4.929
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : 5.236
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -5.806
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sensa_boton:inst14|RELOJ'
+Slack : -2.422
+TNS   : -1105.470
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -0.875
+TNS   : -9.875
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : 0.474
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'sensa_boton:inst14|RELOJ'
+Slack : -20.927
+TNS   : -6045.526
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : -20.799
+TNS   : -194.743
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : -20.178
+TNS   : -20.178
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : -18.173
+TNS   : -18.173
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : -18.101
+TNS   : -18.101
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : -17.003
+TNS   : -17.003
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : -16.708
+TNS   : -16.708
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : -15.792
+TNS   : -15.792
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : -15.548
+TNS   : -15.548
+
+Type  : Slow 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : -15.141
+TNS   : -15.141
+
+Type  : Slow 1200mV 0C Model Setup 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -8.111
+TNS   : -8.111
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -2.400
+TNS   : -2.400
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : -1.857
+TNS   : -9.508
+
+Type  : Slow 1200mV 0C Model Hold 'sensa_boton:inst14|RELOJ'
+Slack : -1.827
+TNS   : -7.231
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : 2.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : 2.931
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : 3.252
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : 3.653
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : 3.710
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : 4.074
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : 4.631
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : 4.690
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -5.806
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sensa_boton:inst14|RELOJ'
+Slack : -2.333
+TNS   : -1082.686
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -1.013
+TNS   : -8.496
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'sensa_boton:inst14|RELOJ'
+Slack : -10.064
+TNS   : -2682.956
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : -10.052
+TNS   : -93.897
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : -9.725
+TNS   : -9.725
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : -8.305
+TNS   : -8.305
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : -8.194
+TNS   : -8.194
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : -7.858
+TNS   : -7.858
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : -7.512
+TNS   : -7.512
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : -6.941
+TNS   : -6.941
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : -6.906
+TNS   : -6.906
+
+Type  : Fast 1200mV 0C Model Setup 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : -6.804
+TNS   : -6.804
+
+Type  : Fast 1200mV 0C Model Setup 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -3.628
+TNS   : -3.628
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : 0.638
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -1.359
+TNS   : -1.359
+
+Type  : Fast 1200mV 0C Model Hold 'sensa_boton:inst14|RELOJ'
+Slack : -1.148
+TNS   : -13.508
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : -1.008
+TNS   : -6.632
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : 1.007
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : 1.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : 1.396
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : 1.558
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : 1.646
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : 1.935
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : 2.243
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : 2.519
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -5.068
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sensa_boton:inst14|RELOJ'
+Slack : -1.000
+TNS   : -602.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CC'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CH'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CI'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CN'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CS'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CV'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CX'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|CZ'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Flags:inst5|registro:inst2|valor_interno'
+Slack : -0.429
+TNS   : -2.122
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'secuenciador:inst7|registro_sec:inst2|UPA[0]'
+Slack : 0.285
+TNS   : 0.000
+
+------------------------------------------------------------

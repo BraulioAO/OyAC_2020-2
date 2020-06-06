@@ -1,0 +1,253 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VHDL/68HC11/CISC/simulation/qsim
+Ebin_bcd
+Z0 w1590824736
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx11 fiftyfivenm 21 fiftyfivenm_atom_pack 0 22 b:4^GQG9SgzacjAmO=9`O0
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 DPx11 fiftyfivenm 22 fiftyfivenm_components 0 22 3g0@koWcWFU4ch:4ZJbzl1
+Z7 dC:/Users/braul/Desktop/BRAU 16GB/00 Trabajos Universidad 10mo semestre/Arquitectura de Computadoras/Proyecto Final/ProyectoFinal-Tarjeta/simulation/qsim
+Z8 8m68hc11.vho
+Z9 Fm68hc11.vho
+l0
+L34
+V::hGboS4LAm@V4V2N1YgC1
+!s100 @^>f1Z_zfZk<5iif6VoSQ0
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1590824738
+!i10b 1
+Z12 !s108 1590824738.000000
+Z13 !s90 -work|work|m68hc11.vho|
+Z14 !s107 m68hc11.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 bin_bcd 0 22 ::hGboS4LAm@V4V2N1YgC1
+l131
+L46
+VH3=0I6=iG93RYg9HJU[3o2
+!s100 3cQY>@KLia^3Ro0INWb>30
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Ebin_bcd_vhd_vec_tst
+Z17 w1590824734
+R4
+R5
+R7
+Z18 8Waveform1.vwf.vht
+Z19 FWaveform1.vwf.vht
+l0
+L31
+VU`oZ6fEDfP_758AG?8PgS3
+!s100 :8k`?RSTS4H?ziUN08nf[1
+R10
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -work|work|Waveform1.vwf.vht|
+Z21 !s107 Waveform1.vwf.vht|
+!i113 1
+R15
+R16
+Abin_bcd_arch
+R4
+R5
+Z22 DEx4 work 19 bin_bcd_vhd_vec_tst 0 22 U`oZ6fEDfP_758AG?8PgS3
+l54
+L33
+V>2V]A15X_kJ8]QzfXbALh3
+!s100 <S>z`I1V^9OoZBFJVR^1c1
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 1
+R15
+R16
+Ehard_block
+Z23 w1590819430
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+l0
+L34
+V8_BbEmGd;OHS6h@;gFc7W3
+!s100 ROH=D<N4CT6aCZ<37A[_?0
+R10
+32
+Z24 !s110 1590819432
+!i10b 1
+Z25 !s108 1590819432.000000
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 10 hard_block 0 22 8_BbEmGd;OHS6h@;gFc7W3
+l75
+L53
+Vg=W`CQ>24lhYF71zFSkY43
+!s100 zW6ML5NVY?Ai`]`n2XhME3
+R10
+32
+R24
+!i10b 1
+R25
+R13
+R14
+!i113 1
+R15
+R16
+Em68hc11
+Z26 w1590822089
+R2
+R6
+R1
+Z27 DPx6 altera 11 dffeas_pack 0 22 Dg`GWTC`^Q8GNSMPeo22;3
+R3
+R4
+R5
+Z28 DPx6 altera 28 altera_primitives_components 0 22 _LNC5n6B?5VN@W;M4Dg@k1
+R7
+R8
+R9
+l0
+L36
+Vhz[36EHDAEA?QenR]PI340
+!s100 ^`?1K>_m2i334ZgJmPWHf3
+R10
+32
+!s110 1590822090
+!i10b 1
+Z29 !s108 1590822090.000000
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R2
+R6
+R1
+R27
+R3
+R4
+R5
+R28
+DEx4 work 7 m68hc11 0 22 hz[36EHDAEA?QenR]PI340
+l3827
+L89
+VdJ][91EiIB9^0m1o2X9[S1
+!s100 QZOHaTgDfFH8e;V6Nk<XN2
+R10
+32
+!s110 1590822091
+!i10b 1
+R29
+R13
+R14
+!i113 1
+R15
+R16
+Em68hc11_vhd_vec_tst
+Z30 w1590822086
+R4
+R5
+R7
+Z31 8Waveform.vwf.vht
+Z32 FWaveform.vwf.vht
+l0
+L31
+VNFoPKaljP1zP>Ue4Uzioe3
+!s100 8D4ikSc[QJbg7<CL[32N=2
+R10
+32
+Z33 !s110 1590822092
+!i10b 1
+Z34 !s108 1590822092.000000
+Z35 !s90 -work|work|Waveform.vwf.vht|
+Z36 !s107 Waveform.vwf.vht|
+!i113 1
+R15
+R16
+Am68hc11_arch
+R4
+R5
+DEx4 work 19 m68hc11_vhd_vec_tst 0 22 NFoPKaljP1zP>Ue4Uzioe3
+l136
+L33
+VZCazEQ4j=Am4DdknelOFg1
+!s100 ^Ck2I@Wg^NO`b8]Nz4NMC2
+R10
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R15
+R16
+vm68hc11_vlg_vec_tst
+!s110 1585594010
+!i10b 1
+!s100 nZB_ZFhHV:^[gD>J_W<?93
+ISf3f7z5_AFP1eSQ@dK6N<3
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/VHDL/LabOyAC/2020_2/68HC11/CISC/simulation/qsim
+w1585593999
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+OV;L;10.4b;61
+r1
+!s85 0
+31
+!s108 1585594010.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R15

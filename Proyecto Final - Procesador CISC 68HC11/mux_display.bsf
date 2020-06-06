@@ -1,0 +1,302 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+*/
+(header "symbol" (version "1.1"))
+(symbol
+	(rect 16 16 192 608)
+	(text "mux_display" (rect 5 0 55 12)(font "Arial" ))
+	(text "inst" (rect 8 576 20 588)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "sel2" (rect 0 0 15 12)(font "Arial" ))
+		(text "sel2" (rect 21 27 36 39)(font "Arial" ))
+		(line (pt 0 32)(pt 16 32)(line_width 1))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "sel1" (rect 0 0 14 12)(font "Arial" ))
+		(text "sel1" (rect 21 43 35 55)(font "Arial" ))
+		(line (pt 0 48)(pt 16 48)(line_width 1))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "sel0" (rect 0 0 15 12)(font "Arial" ))
+		(text "sel0" (rect 21 59 36 71)(font "Arial" ))
+		(line (pt 0 64)(pt 16 64)(line_width 1))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "I0_5[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I0_5[7..0]" (rect 21 75 58 87)(font "Arial" ))
+		(line (pt 0 80)(pt 16 80)(line_width 3))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "I0_4[7..0]" (rect 0 0 38 12)(font "Arial" ))
+		(text "I0_4[7..0]" (rect 21 91 59 103)(font "Arial" ))
+		(line (pt 0 96)(pt 16 96)(line_width 3))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "I0_3[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I0_3[7..0]" (rect 21 107 58 119)(font "Arial" ))
+		(line (pt 0 112)(pt 16 112)(line_width 3))
+	)
+	(port
+		(pt 0 128)
+		(input)
+		(text "I0_2[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I0_2[7..0]" (rect 21 123 58 135)(font "Arial" ))
+		(line (pt 0 128)(pt 16 128)(line_width 3))
+	)
+	(port
+		(pt 0 144)
+		(input)
+		(text "I0_1[7..0]" (rect 0 0 36 12)(font "Arial" ))
+		(text "I0_1[7..0]" (rect 21 139 57 151)(font "Arial" ))
+		(line (pt 0 144)(pt 16 144)(line_width 3))
+	)
+	(port
+		(pt 0 160)
+		(input)
+		(text "I0_0[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I0_0[7..0]" (rect 21 155 58 167)(font "Arial" ))
+		(line (pt 0 160)(pt 16 160)(line_width 3))
+	)
+	(port
+		(pt 0 176)
+		(input)
+		(text "I1_5[7..0]" (rect 0 0 36 12)(font "Arial" ))
+		(text "I1_5[7..0]" (rect 21 171 57 183)(font "Arial" ))
+		(line (pt 0 176)(pt 16 176)(line_width 3))
+	)
+	(port
+		(pt 0 192)
+		(input)
+		(text "I1_4[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I1_4[7..0]" (rect 21 187 58 199)(font "Arial" ))
+		(line (pt 0 192)(pt 16 192)(line_width 3))
+	)
+	(port
+		(pt 0 208)
+		(input)
+		(text "I1_3[7..0]" (rect 0 0 36 12)(font "Arial" ))
+		(text "I1_3[7..0]" (rect 21 203 57 215)(font "Arial" ))
+		(line (pt 0 208)(pt 16 208)(line_width 3))
+	)
+	(port
+		(pt 0 224)
+		(input)
+		(text "I1_2[7..0]" (rect 0 0 36 12)(font "Arial" ))
+		(text "I1_2[7..0]" (rect 21 219 57 231)(font "Arial" ))
+		(line (pt 0 224)(pt 16 224)(line_width 3))
+	)
+	(port
+		(pt 0 240)
+		(input)
+		(text "I1_1[7..0]" (rect 0 0 35 12)(font "Arial" ))
+		(text "I1_1[7..0]" (rect 21 235 56 247)(font "Arial" ))
+		(line (pt 0 240)(pt 16 240)(line_width 3))
+	)
+	(port
+		(pt 0 256)
+		(input)
+		(text "I1_0[7..0]" (rect 0 0 36 12)(font "Arial" ))
+		(text "I1_0[7..0]" (rect 21 251 57 263)(font "Arial" ))
+		(line (pt 0 256)(pt 16 256)(line_width 3))
+	)
+	(port
+		(pt 0 272)
+		(input)
+		(text "I2_5[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I2_5[7..0]" (rect 21 267 58 279)(font "Arial" ))
+		(line (pt 0 272)(pt 16 272)(line_width 3))
+	)
+	(port
+		(pt 0 288)
+		(input)
+		(text "I2_4[7..0]" (rect 0 0 38 12)(font "Arial" ))
+		(text "I2_4[7..0]" (rect 21 283 59 295)(font "Arial" ))
+		(line (pt 0 288)(pt 16 288)(line_width 3))
+	)
+	(port
+		(pt 0 304)
+		(input)
+		(text "I2_3[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I2_3[7..0]" (rect 21 299 58 311)(font "Arial" ))
+		(line (pt 0 304)(pt 16 304)(line_width 3))
+	)
+	(port
+		(pt 0 320)
+		(input)
+		(text "I2_2[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I2_2[7..0]" (rect 21 315 58 327)(font "Arial" ))
+		(line (pt 0 320)(pt 16 320)(line_width 3))
+	)
+	(port
+		(pt 0 336)
+		(input)
+		(text "I2_1[7..0]" (rect 0 0 36 12)(font "Arial" ))
+		(text "I2_1[7..0]" (rect 21 331 57 343)(font "Arial" ))
+		(line (pt 0 336)(pt 16 336)(line_width 3))
+	)
+	(port
+		(pt 0 352)
+		(input)
+		(text "I2_0[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I2_0[7..0]" (rect 21 347 58 359)(font "Arial" ))
+		(line (pt 0 352)(pt 16 352)(line_width 3))
+	)
+	(port
+		(pt 0 368)
+		(input)
+		(text "I3_5[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I3_5[7..0]" (rect 21 363 58 375)(font "Arial" ))
+		(line (pt 0 368)(pt 16 368)(line_width 3))
+	)
+	(port
+		(pt 0 384)
+		(input)
+		(text "I3_4[7..0]" (rect 0 0 38 12)(font "Arial" ))
+		(text "I3_4[7..0]" (rect 21 379 59 391)(font "Arial" ))
+		(line (pt 0 384)(pt 16 384)(line_width 3))
+	)
+	(port
+		(pt 0 400)
+		(input)
+		(text "I3_3[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I3_3[7..0]" (rect 21 395 58 407)(font "Arial" ))
+		(line (pt 0 400)(pt 16 400)(line_width 3))
+	)
+	(port
+		(pt 0 416)
+		(input)
+		(text "I3_2[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I3_2[7..0]" (rect 21 411 58 423)(font "Arial" ))
+		(line (pt 0 416)(pt 16 416)(line_width 3))
+	)
+	(port
+		(pt 0 432)
+		(input)
+		(text "I3_1[7..0]" (rect 0 0 36 12)(font "Arial" ))
+		(text "I3_1[7..0]" (rect 21 427 57 439)(font "Arial" ))
+		(line (pt 0 432)(pt 16 432)(line_width 3))
+	)
+	(port
+		(pt 0 448)
+		(input)
+		(text "I3_0[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I3_0[7..0]" (rect 21 443 58 455)(font "Arial" ))
+		(line (pt 0 448)(pt 16 448)(line_width 3))
+	)
+	(port
+		(pt 0 464)
+		(input)
+		(text "I4_5[7..0]" (rect 0 0 38 12)(font "Arial" ))
+		(text "I4_5[7..0]" (rect 21 459 59 471)(font "Arial" ))
+		(line (pt 0 464)(pt 16 464)(line_width 3))
+	)
+	(port
+		(pt 0 480)
+		(input)
+		(text "I4_4[7..0]" (rect 0 0 40 12)(font "Arial" ))
+		(text "I4_4[7..0]" (rect 21 475 61 487)(font "Arial" ))
+		(line (pt 0 480)(pt 16 480)(line_width 3))
+	)
+	(port
+		(pt 0 496)
+		(input)
+		(text "I4_3[7..0]" (rect 0 0 38 12)(font "Arial" ))
+		(text "I4_3[7..0]" (rect 21 491 59 503)(font "Arial" ))
+		(line (pt 0 496)(pt 16 496)(line_width 3))
+	)
+	(port
+		(pt 0 512)
+		(input)
+		(text "I4_2[7..0]" (rect 0 0 38 12)(font "Arial" ))
+		(text "I4_2[7..0]" (rect 21 507 59 519)(font "Arial" ))
+		(line (pt 0 512)(pt 16 512)(line_width 3))
+	)
+	(port
+		(pt 0 528)
+		(input)
+		(text "I4_1[7..0]" (rect 0 0 37 12)(font "Arial" ))
+		(text "I4_1[7..0]" (rect 21 523 58 535)(font "Arial" ))
+		(line (pt 0 528)(pt 16 528)(line_width 3))
+	)
+	(port
+		(pt 0 544)
+		(input)
+		(text "I4_0[7..0]" (rect 0 0 38 12)(font "Arial" ))
+		(text "I4_0[7..0]" (rect 21 539 59 551)(font "Arial" ))
+		(line (pt 0 544)(pt 16 544)(line_width 3))
+	)
+	(port
+		(pt 176 32)
+		(output)
+		(text "O5[7..0]" (rect 0 0 31 12)(font "Arial" ))
+		(text "O5[7..0]" (rect 124 27 155 39)(font "Arial" ))
+		(line (pt 176 32)(pt 160 32)(line_width 3))
+	)
+	(port
+		(pt 176 48)
+		(output)
+		(text "O4[7..0]" (rect 0 0 33 12)(font "Arial" ))
+		(text "O4[7..0]" (rect 122 43 155 55)(font "Arial" ))
+		(line (pt 176 48)(pt 160 48)(line_width 3))
+	)
+	(port
+		(pt 176 64)
+		(output)
+		(text "O3[7..0]" (rect 0 0 31 12)(font "Arial" ))
+		(text "O3[7..0]" (rect 124 59 155 71)(font "Arial" ))
+		(line (pt 176 64)(pt 160 64)(line_width 3))
+	)
+	(port
+		(pt 176 80)
+		(output)
+		(text "O2[7..0]" (rect 0 0 31 12)(font "Arial" ))
+		(text "O2[7..0]" (rect 124 75 155 87)(font "Arial" ))
+		(line (pt 176 80)(pt 160 80)(line_width 3))
+	)
+	(port
+		(pt 176 96)
+		(output)
+		(text "O1[7..0]" (rect 0 0 30 12)(font "Arial" ))
+		(text "O1[7..0]" (rect 125 91 155 103)(font "Arial" ))
+		(line (pt 176 96)(pt 160 96)(line_width 3))
+	)
+	(port
+		(pt 176 112)
+		(output)
+		(text "O0[7..0]" (rect 0 0 31 12)(font "Arial" ))
+		(text "O0[7..0]" (rect 124 107 155 119)(font "Arial" ))
+		(line (pt 176 112)(pt 160 112)(line_width 3))
+	)
+	(drawing
+		(rectangle (rect 16 16 160 576)(line_width 1))
+	)
+)
